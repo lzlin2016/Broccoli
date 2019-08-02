@@ -1,3 +1,8 @@
+三种方案: 
+1) 最原始: team-supercharge/ShimmerLayout     https://github.com/team-supercharge/ShimmerLayout
+2) 本文原始: samlss/Broccoli   https://github.com/samlss/Broccoli   本文采用第二方案
+3) 其他方案: ethanhua/Skeleton https://github.com/ethanhua/Skeleton 简书介绍: https://www.jianshu.com/p/ded3c7e8adfe, 此方案参考自方案1 
+
 ![Broccoli](https://github.com/samlss/Broccoli/blob/master/screenshots/Broccoli.png)
 
   [![Download](https://api.bintray.com/packages/samlss/maven/broccoli/images/download.svg?version=1.0.0)](https://bintray.com/samlss/maven/broccoli/1.0.0/link) [![Api reqeust](https://img.shields.io/badge/API-11+-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=11#l11)    [![Apache License 2.0](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/samlss/Broccoli/blob/master/LICENSE) 
